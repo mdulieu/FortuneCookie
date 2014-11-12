@@ -1,1 +1,1 @@
-queuty: python fortuneCookie.py
+worker: python fortuneCookie.py
