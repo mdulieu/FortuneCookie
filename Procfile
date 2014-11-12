@@ -1,0 +1,1 @@
+queuty: python fortuneCookie.py
